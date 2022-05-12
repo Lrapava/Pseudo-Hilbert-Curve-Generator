@@ -14,8 +14,8 @@ I strongly recommend converting the .ppm file to a .png file for extra (lossless
 
 # Demo
 
-ASCII
+# ASCII
 ![Screenshot_20220512_153106](https://user-images.githubusercontent.com/46052668/168065228-3fd76fe1-79af-4246-b8af-8da61784fa8b.png)
 
-PPM/PNG
+# PPM/PNG
 ![hilbert](https://user-images.githubusercontent.com/46052668/168064748-b647443a-1369-4f9f-90c9-193df3bff168.png)
