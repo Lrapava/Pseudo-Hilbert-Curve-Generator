@@ -2,7 +2,7 @@
 Lrapava/hcurve is a simple command-line utility for generating pseudo Hilbert curves' visualisations.
 
 # --help
-`
+
 Lrapava/hcurve is a simple command-line utility for generating pseudo Hilbert curves' visualisations.\n"
 You can view source-code at https://github.com/Lrapava/hcurve\n"
 For more informatiob about Hilbert curve view https://youtu.be/3s7h2MHQtxc\n\n"
@@ -19,7 +19,7 @@ Options:\n"
 --weight=X            sets width of the curve to X\n"
 --padding=X           sets padding to X\n"
 --background=X        fills the background with X\n"
-`
+
 
 # Sample images
 
