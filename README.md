@@ -15,7 +15,7 @@ Options:
 --ascii        | -a   visualizes the curve in form of ascii art
 --color        | -c   visualizes the curve in form of ppm
 --grey         | -g   visualizes the curve in form of pgm
---instructions | -i   outputs \"instructions\" for building the curve (F - move forward, + - rotate right by 90 degrees, - - rotate left by 90 degrees)
+--instructions | -i   outputs "instructions" for building the curve (F - move forward, + - rotate right by 90 degrees, - - rotate left by 90 degrees)
 --rainbow      | -r   the color (if used with -c) or the brightness (if used with -g) of the curve changes depending on the length of the curve
 --zero         | -z   sets padding to 0 and weight to 1
 --weight=X            sets width of the curve to X
