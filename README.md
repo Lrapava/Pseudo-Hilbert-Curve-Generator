@@ -1,10 +1,10 @@
 # Lrapava/hcurve
-Lrapava/hcurve is a simple command-line utility for generating pseudo Hilbert curves' visualisations.
+Lrapava/hcurve is a simple command-line utility for generating pseudo Hilbert curves' visualizations.
 
 # hcurve --help
 
 <pre>
-Lrapava/hcurve is a simple command-line utility for generating pseudo Hilbert curves' visualisations.\n"
+Lrapava/hcurve is a simple command-line utility for generating pseudo Hilbert curves' visualizations.\n"
 You can view source-code at https://github.com/Lrapava/hcurve\n"
 For more informatiob about Hilbert curve view https://youtu.be/3s7h2MHQtxc\n\n"
 Usage:\n"
